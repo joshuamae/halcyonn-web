@@ -1,0 +1,17 @@
+# NPM
+node_modules
+.next
+
+# Build
+build
+
+# Env
+.env.local
+.env
+
+# macOS
+.DS_Store
+
+# IDEs
+.idea
+.vscode
